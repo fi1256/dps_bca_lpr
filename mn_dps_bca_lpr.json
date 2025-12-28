@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": "2025-12-28T22:11:17.451Z",
+    "generated": "2025-12-28T22:31:25.018Z",
     "source_url": "https://dps.mn.gov/divisions/bca/data-and-reports/agencies-use-lprs-lpr"
   },
   "features": [
@@ -186,8 +186,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.4030086,
-          45.8601344
+          -95.3576395,
+          45.8891952
         ]
       },
       "properties": {
@@ -195,7 +195,7 @@
         "searchRegion": "Alexandria",
         "addr": "34th Ave. West at State Highway 27 eastbound",
         "searchAddr": "34th Ave. West and State Highway 27, Alexandria, MN, USA",
-        "result_name": "34th Ave W, Alexandria, MN 56308, USA",
+        "result_name": "MN-27 E, Alexandria, MN 56308, USA",
         "direction": "eastbound"
       }
     },
@@ -231,7 +231,7 @@
         "searchRegion": "Alexandria",
         "addr": "State Highway 27 East at McKay Ave. South westbound",
         "searchAddr": "State Highway 27 East and McKay Ave. South, Alexandria, MN, USA",
-        "result_name": "McKay Ave N & MN-27 E, Alexandria, MN 56308, USA",
+        "result_name": "MN-27 E & S McKay Ave, Alexandria, MN 56308, USA",
         "direction": "westbound"
       }
     },
@@ -563,8 +563,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.7036557,
-          46.9164628
+          -96.0835455,
+          46.5713116
         ]
       },
       "properties": {
@@ -572,7 +572,7 @@
         "searchRegion": "Becker County",
         "addr": "Becker CSAH 5 south of CSAH 11 in Pelican Rapids",
         "searchAddr": "Becker CSAH 5 and CSAH 11 in Pelican Rapids, Becker County, MN, USA",
-        "result_name": "Becker County, MN, USA"
+        "result_name": "Pelican Rapids, MN 56572, USA"
       }
     },
     {
@@ -665,8 +665,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.7390874,
-          48.1418531
+          -94.4008724,
+          46.7144536
         ]
       },
       "properties": {
@@ -674,7 +674,7 @@
         "searchRegion": "Beltrami County",
         "addr": "Front Street at Ridge Avenue in Pine River",
         "searchAddr": "Front Street and Ridge Avenue in Pine River, Beltrami County, MN, USA",
-        "result_name": "Beltrami County, MN, USA"
+        "result_name": "Ridge Ave, Pine River, MN 56474, USA"
       }
     },
     {
@@ -959,8 +959,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.26355099999999,
-          45.13860940000001
+          -93.1944928,
+          45.1389447
         ]
       },
       "properties": {
@@ -968,7 +968,7 @@
         "searchRegion": "Blaine",
         "addr": "93rd Avenue NE and Highway 10 northbound",
         "searchAddr": "93rd Avenue NE and Highway 10, Blaine, MN, USA",
-        "result_name": "10 93rd Ave NE, Blaine, MN 55434, USA",
+        "result_name": "93rd Ave NE, Blaine, MN 55449, USA",
         "direction": "northbound"
       }
     },
@@ -1154,8 +1154,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.1763556,
-          45.1498007
+          -93.1630332,
+          45.1676286
         ]
       },
       "properties": {
@@ -1163,7 +1163,7 @@
         "searchRegion": "Blaine",
         "addr": "Lexington Avenue NE at Interstate 35 West southbound",
         "searchAddr": "Lexington Avenue NE and Interstate 35 West, Blaine, MN, USA",
-        "result_name": "I-35W, Blaine, MN, USA",
+        "result_name": "Lexington Ave NE, Blaine, MN, USA",
         "direction": "southbound"
       }
     },
@@ -1388,8 +1388,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.2662546,
-          45.1642696
+          -93.2219671,
+          45.1118412
         ]
       },
       "properties": {
@@ -1397,7 +1397,7 @@
         "searchRegion": "Blaine",
         "addr": "University Avenue NE at Highway 10 NE northbound",
         "searchAddr": "University Avenue NE and Highway 10 NE, Blaine, MN, USA",
-        "result_name": "University Ave NE, Blaine, MN, USA",
+        "result_name": "Hwy 10 NE, Mounds View, MN 55112, USA",
         "direction": "northbound"
       }
     },
@@ -1406,8 +1406,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.2350967,
-          45.1399774
+          -93.1944928,
+          45.1389447
         ]
       },
       "properties": {
@@ -1415,7 +1415,7 @@
         "searchRegion": "Blaine",
         "addr": "Highway 65 NE at 93rd Avenue NE northbound",
         "searchAddr": "Highway 65 NE and 93rd Avenue NE, Blaine, MN, USA",
-        "result_name": "MN-65 & 93rd Ln NE, Blaine, MN 55434, USA",
+        "result_name": "93rd Ave NE, Blaine, MN 55449, USA",
         "direction": "northbound"
       }
     },
@@ -2155,7 +2155,7 @@
         "searchRegion": "Chisago County",
         "addr": "Olinda Trail at Morgan Ave. in Chisago Lakes Township",
         "searchAddr": "Olinda Trail and Morgan Ave. in Chisago Lakes Township, Chisago County, MN, USA",
-        "result_name": "Olinda Trail N & Morgan Ave, Chisago Lake Township, MN 55045, USA"
+        "result_name": "Olinda Trail & Morgan Ave, Chisago Lake Township, MN 55045, USA"
       }
     },
     {
@@ -2640,8 +2640,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.0330446,
-          44.7121549
+          -93.025467,
+          44.7123223
         ]
       },
       "properties": {
@@ -2649,7 +2649,7 @@
         "searchRegion": "Dakota County",
         "addr": "Brandel Drive near Coates Boulevard in Coates",
         "searchAddr": "Brandel Drive and Coates Boulevard in Coates, Dakota County, MN, USA",
-        "result_name": "Coates Blvd, Coates, MN, USA"
+        "result_name": "Brandel Dr, Coates, MN 55068, USA"
       }
     },
     {
@@ -3262,8 +3262,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.3250163,
-          44.8806729
+          -93.3242779,
+          44.8828054
         ]
       },
       "properties": {
@@ -3271,7 +3271,7 @@
         "searchRegion": "Edina",
         "addr": "Southdale Mall, West 66th Street (West entrance)",
         "searchAddr": "Southdale Mall, West 66th Street (West entrance), Edina, MN, USA",
-        "result_name": "10 Southdale Ctr, Edina, MN 55435, USA"
+        "result_name": "Southdale Ctr, Edina, MN 55435, USA"
       }
     },
     {
@@ -3332,8 +3332,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.3242779,
-          44.8828054
+          -93.3250163,
+          44.8806729
         ]
       },
       "properties": {
@@ -3341,7 +3341,7 @@
         "searchRegion": "Edina",
         "addr": "Southdale Mall, West 69th Street (East entrance)​",
         "searchAddr": "Southdale Mall, West 69th Street (East entrance), Edina, MN, USA",
-        "result_name": "Southdale Ctr, Edina, MN 55435, USA"
+        "result_name": "10 Southdale Ctr, Edina, MN 55435, USA"
       }
     },
     {
@@ -3349,8 +3349,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.3242779,
-          44.8828054
+          -93.3250163,
+          44.8806729
         ]
       },
       "properties": {
@@ -3358,7 +3358,7 @@
         "searchRegion": "Edina",
         "addr": "​Southdale Mall, France Avenue (South Perimeter Road entrance)",
         "searchAddr": "Southdale Mall, France Avenue (South Perimeter Road entrance), Edina, MN, USA",
-        "result_name": "Southdale Ctr, Edina, MN 55435, USA"
+        "result_name": "10 Southdale Ctr, Edina, MN 55435, USA"
       }
     },
     {
@@ -3451,8 +3451,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.3204471,
-          44.883635
+          -93.3257742,
+          44.8771901
         ]
       },
       "properties": {
@@ -3460,7 +3460,7 @@
         "searchRegion": "Edina",
         "addr": "​Galleria Mall, York Avenue, East Entrance #1",
         "searchAddr": "Galleria Mall, York Avenue, East Entrance #1, Edina, MN, USA",
-        "result_name": "York Ave S, Edina, MN, USA"
+        "result_name": "1 W 69th St, Edina, MN 55435, USA"
       }
     },
     {
@@ -3468,8 +3468,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.3204471,
-          44.883635
+          -93.3257742,
+          44.8771901
         ]
       },
       "properties": {
@@ -3477,7 +3477,7 @@
         "searchRegion": "Edina",
         "addr": "Galleria Mall, York Avenue, East Entrance #2",
         "searchAddr": "Galleria Mall, York Avenue, East Entrance #2, Edina, MN, USA",
-        "result_name": "York Ave S, Edina, MN, USA"
+        "result_name": "1 W 69th St, Edina, MN 55435, USA"
       }
     },
     {
@@ -3502,8 +3502,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.3477418,
-          44.8763445
+          -93.3257742,
+          44.8771901
         ]
       },
       "properties": {
@@ -3511,7 +3511,7 @@
         "searchRegion": "Edina",
         "addr": "Galleria Mall, West 70th Street, Central Entrance #2",
         "searchAddr": "Galleria Mall, West 70th Street, Central Entrance #2, Edina, MN, USA",
-        "result_name": "W 70th St, Edina, MN, USA"
+        "result_name": "1 W 69th St, Edina, MN 55435, USA"
       }
     },
     {
@@ -3519,8 +3519,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.3477418,
-          44.8763445
+          -93.3257742,
+          44.8771901
         ]
       },
       "properties": {
@@ -3528,7 +3528,7 @@
         "searchRegion": "Edina",
         "addr": "Galleria Mall, West 70th Street, Central Entrance #3",
         "searchAddr": "Galleria Mall, West 70th Street, Central Entrance #3, Edina, MN, USA",
-        "result_name": "W 70th St, Edina, MN, USA"
+        "result_name": "1 W 69th St, Edina, MN 55435, USA"
       }
     },
     {
@@ -3839,8 +3839,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.5870848,
-          45.3212046
+          -93.5595749,
+          45.3067297
         ]
       },
       "properties": {
@@ -3848,7 +3848,7 @@
         "searchRegion": "Elk River",
         "addr": "193rd Avenue NW at Evans Street NW eastbound",
         "searchAddr": "193rd Avenue NW and Evans Street NW, Elk River, MN, USA",
-        "result_name": "193rd Ave NW, Elk River, MN 55330, USA",
+        "result_name": "Evans Ave NW, Elk River, MN 55330, USA",
         "direction": "eastbound"
       }
     },
@@ -4750,7 +4750,7 @@
         "searchRegion": "Mankato",
         "addr": "Victory Drive at Main Street",
         "searchAddr": "Victory Drive and Main Street, Mankato, MN, USA",
-        "result_name": "S Victory Dr & E Main St, Mankato, MN 56001, USA"
+        "result_name": "E Main St & N Victory Dr, Mankato, MN 56001, USA"
       }
     },
     {
@@ -4775,8 +4775,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6459644,
-          45.0511417
+          -93.6352654,
+          45.051147
         ]
       },
       "properties": {
@@ -4784,7 +4784,7 @@
         "searchRegion": "Medina",
         "addr": "County Road 19 and County Road 11",
         "searchAddr": "County Road 19 and County Road 11, Medina, MN, USA",
-        "result_name": "County Rd 11, Medina, MN, USA"
+        "result_name": "County Rd 11 & County Rd 19, Loretto, MN 55357, USA"
       }
     },
     {
@@ -4860,8 +4860,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.5937259,
-          45.5699272
+          -93.7119706,
+          45.7326109
         ]
       },
       "properties": {
@@ -4869,7 +4869,7 @@
         "searchRegion": "Mille Lacs County",
         "addr": "U.S. Highway 169 northbound at 1st Street (Princeton)",
         "searchAddr": "U.S. Highway 169  and 1st Street (Princeton), Mille Lacs County, MN, USA",
-        "result_name": "1st St, Princeton, MN 55371, USA",
+        "result_name": "169 1st St S, Foreston, MN 56330, USA",
         "direction": "northbound"
       }
     },
@@ -5102,8 +5102,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.2771705,
-          44.9846754
+          -93.284913,
+          45.0123969
         ]
       },
       "properties": {
@@ -5111,7 +5111,7 @@
         "searchRegion": "Minneapolis",
         "addr": "West Broadway Avenue North and 4th Street North",
         "searchAddr": "West Broadway Avenue North and 4th Street North, Minneapolis, MN, USA",
-        "result_name": "N 4th St, Minneapolis, MN 55401, USA"
+        "result_name": "N 4th St, Minneapolis, MN, USA"
       }
     },
     {
@@ -5119,8 +5119,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.28801299999999,
-          44.9991445
+          -93.2880229,
+          45.0128227
         ]
       },
       "properties": {
@@ -5128,7 +5128,7 @@
         "searchRegion": "Minneapolis",
         "addr": "West Broadway Avenue North and Lyndale Avenue North",
         "searchAddr": "West Broadway Avenue North and Lyndale Avenue North, Minneapolis, MN, USA",
-        "result_name": "W Broadway & N Lyndale Ave, Minneapolis, MN 55411, USA"
+        "result_name": "N Lyndale Ave, Minneapolis, MN, USA"
       }
     },
     {
@@ -5136,8 +5136,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.2956641,
-          44.9991691
+          -93.2956225,
+          45.0149691
         ]
       },
       "properties": {
@@ -5145,7 +5145,7 @@
         "searchRegion": "Minneapolis",
         "addr": "West Broadway Avenue North and Fremont Avenue North",
         "searchAddr": "West Broadway Avenue North and Fremont Avenue North, Minneapolis, MN, USA",
-        "result_name": "W Broadway & Fremont Ave N, Minneapolis, MN 55411, USA"
+        "result_name": "Fremont Ave N, Minneapolis, MN, USA"
       }
     },
     {
@@ -5340,8 +5340,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.2371767,
-          45.0114028
+          -93.2371448,
+          45.0059933
         ]
       },
       "properties": {
@@ -5349,7 +5349,7 @@
         "searchRegion": "Minneapolis",
         "addr": "18th Avenue NE and Johnson Street NE",
         "searchAddr": "18th Avenue NE and Johnson Street NE, Minneapolis, MN, USA",
-        "result_name": "Johnson St NE, Minneapolis, MN, USA"
+        "result_name": "Johnson St NE & NE 18th Ave, Minneapolis, MN 55418, USA"
       }
     },
     {
@@ -5680,8 +5680,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.76780389999999,
-          46.8737648
+          -96.7710499,
+          46.8513572
         ]
       },
       "properties": {
@@ -5689,7 +5689,7 @@
         "searchRegion": "Moorhead",
         "addr": "15th Avenue N. and 6th Street N.",
         "searchAddr": "15th Avenue N. and 6th Street N., Moorhead, MN, USA",
-        "result_name": "Moorhead, MN, USA"
+        "result_name": "6th St S, Moorhead, MN, USA"
       }
     },
     {
@@ -6343,8 +6343,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.4085575,
-          45.03312649999999
+          -93.4471416,
+          45.0281228
         ]
       },
       "properties": {
@@ -6352,7 +6352,7 @@
         "searchRegion": "Plymouth",
         "addr": "Lancaster Lane at Rockford Road",
         "searchAddr": "Lancaster Lane and Rockford Road, Plymouth, MN, USA",
-        "result_name": "Nathan Lane & Rockford Rd, Plymouth, MN 55441, USA"
+        "result_name": "Rockford Rd, Plymouth, MN, USA"
       }
     },
     {
@@ -7971,8 +7971,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -92.9050102,
-          44.996239
+          -92.8385333,
+          45.0441384
         ]
       },
       "properties": {
@@ -7980,7 +7980,7 @@
         "searchRegion": "Stillwater",
         "addr": "Stillwater Boulevard at Hwy. 36",
         "searchAddr": "Stillwater Boulevard and Hwy. 36, Stillwater, MN, USA",
-        "result_name": "Stillwater Blvd, Minnesota, USA"
+        "result_name": "Stillwater Blvd, Stillwater, MN, USA"
       }
     },
     {
@@ -8090,8 +8090,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.1573078,
-          45.5602093
+          -94.1604655,
+          45.5903754
         ]
       },
       "properties": {
@@ -8099,7 +8099,7 @@
         "searchRegion": "St. Cloud",
         "addr": "Fifth Avenue South and First Street South",
         "searchAddr": "Fifth Avenue South and First Street South, St. Cloud, MN, USA",
-        "result_name": "1st St S & 5th Ave S, St Cloud, MN 56301, USA"
+        "result_name": "5th Ave S & 1st St S, Sauk Rapids, MN 56379, USA"
       }
     },
     {
@@ -8107,8 +8107,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -92.8059377,
-          47.0689232
+          -92.4459974,
+          46.7727091
         ]
       },
       "properties": {
@@ -8116,7 +8116,7 @@
         "searchRegion": "St. Louis County",
         "addr": "County Road 7 southbound at County Road​ 133",
         "searchAddr": "County Road 7  and County Road 133, St. Louis County, MN, USA",
-        "result_name": "Hwy 133, Minnesota, USA",
+        "result_name": "County Rd, Brevator Township, MN 55720, USA",
         "direction": "southbound"
       }
     },

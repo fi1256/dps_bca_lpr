@@ -16,7 +16,7 @@ const geocodeGoogle = async (q) => {
   const res = await fetch(
     `https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(
       q
-    )}&key=${process.env.GOOGLE_MAPS_API_KEY}`
+    )}&components=administrative_area:Minnesota&key=${process.env.GOOGLE_MAPS_API_KEY}`
   );
 
   const data = await res.json();
