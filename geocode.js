@@ -3,6 +3,38 @@ import fs from "fs";
 const ADDRESSES = JSON.parse(fs.readFileSync("ripped.json", "utf8"));
 
 const geocode = async (q) => {
+  if (process.env.GOOGLE_MAPS_API_KEY) {
+    return geocodeGoogle(q);
+  } else if (process.env.MAPBOX_TOKEN) {
+    return geocodeMapbox(q);
+  } else {
+    throw new Error("No geocoding API key provided");
+  }
+};
+
+const geocodeGoogle = async (q) => {
+  const res = await fetch(
+    `https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(
+      q
+    )}&key=${process.env.GOOGLE_MAPS_API_KEY}`
+  );
+
+  const data = await res.json();
+
+  const location = data.results[0].geometry.location;
+
+  return {
+    geometry: {
+      type: "Point",
+      coordinates: [location.lng, location.lat],
+    },
+    properties: {
+      name_preferred: data.results[0].formatted_address,
+    },
+  };
+};
+
+const geocodeMapbox = async (q) => {
   const res = await fetch(
     `https://api.mapbox.com/search/geocode/v6/forward?q=${encodeURIComponent(
       q
@@ -32,6 +64,9 @@ for (let i = 0, l = ADDRESSES.length; i < l; i++) {
     });
 
     const intersection = addr
+      .replaceAll(/\u200B/g, "")
+      .replaceAll(/\u00A0/g, " ")
+      .replaceAll(";", " ")
       .replace(/\sat\s/, " and ")
       .replace(/\snear\s/, " and ")
       .replace("south of", "and")
